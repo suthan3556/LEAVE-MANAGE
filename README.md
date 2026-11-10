@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Leave Management System
 
 ## Requirements
@@ -36,3 +37,6 @@
 - This is an educational demo. It uses email + roll number as a simple login and does not include passwords or production-grade authentication. Do not use real private data.
 - Leave balance is deducted when a request is submitted, regardless of approval status. A production version should normally deduct or reserve leave only according to its approval policy and restore it if rejected.
 - This starter does not include an administrator approval screen.
+=======
+# LEAVE-MANAGE
+>>>>>>> c49754bb83af66bb4ec99880c72de702fe7c1547
